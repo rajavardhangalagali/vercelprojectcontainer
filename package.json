@@ -1,0 +1,12 @@
+{
+  "name": "nexo-ai-user-uploads",
+  "version": "1.0.0",
+  "description": "Vercel deployment container for Nexo.AI user-uploaded websites",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["vercel", "deployment", "hosting"],
+  "author": "Nexo.AI",
+  "license": "MIT"
+}

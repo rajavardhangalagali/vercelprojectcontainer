@@ -1,0 +1,7 @@
+# Nexo.AI User Uploads Container
+
+node_modules/
+.vercel/
+.env
+.DS_Store
+*.log
